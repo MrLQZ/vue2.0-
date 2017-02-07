@@ -25,3 +25,4 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# 这是我工作前用vue2.0仿写的饿了么外卖App，还不是很完善，请大家指教
